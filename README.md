@@ -132,7 +132,7 @@ The Power BI report consists of four interactive pages, each designed to provide
 A high-level summary of order volume, delivery performance, and customer satisfaction through key performance indicators and trend analysis.
 
 <p align="center">
-  <img src="Pictures/Exectuive%20View.png" width="850">
+  <img src="Pictures/Executive%20View.png" width="850">
 </p>
 ### 🚚 2. Delivery Performance
 
