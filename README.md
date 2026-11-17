@@ -131,26 +131,33 @@ The Power BI report consists of four interactive pages, each designed to provide
 
 A high-level summary of order volume, delivery performance, and customer satisfaction through key performance indicators and trend analysis.
 
-\<p align="center">   \<img src="Pictures/Executive%20View\.png" width="850" alt="Executive Overview Dashboard"> \</p>
+<p align="center">
+  <img src="Pictures/Executive%20View.png" width="850">
+</p>
 
 ### 🚚 2. Delivery Performance
 
 Analyzes delivery performance across time, product categories, and customer states to identify patterns and regional delivery challenges.
 
-\<p align="center">   \<img src="Pictures/Delivery%20Performance.png" width="850" alt="Delivery Performance Dashboard"> \</p>
+<p align="center">
+  <img src="Pictures/Delivery%20Performance.png" width="850">
+</p>
 
 ### 🏭 3. Seller Performance
 
 Evaluates seller-level delivery performance, highlighting sellers with higher late delivery rates and differences in delivery timelines.
 
-\<p align="center">   \<img src="Pictures/Seller%20Performance.png" width="850" alt="Seller Performance Dashboard"> \</p>
+<p align="center">
+  <img src="Pictures/Seller%20Performance.png" width="850">
+</p>
 
 ### ⭐ 4. Customer Experience
 
 Explores customer review scores and compares satisfaction across on-time and late delivery classifications.
 
-\<p align="center">   \<img src="Pictures/Customer%20Experience.png" width="850" alt="Customer Experience Dashboard"> \</p>
-
+<p align="center">
+  <img src="Pictures/Customer%20Experience.png" width="850" alt="Customer Experience Dashboard">
+</p>
 ---
 
 ### 📥 Access the Interactive Power BI Report
