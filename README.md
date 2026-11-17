@@ -151,7 +151,7 @@ Evaluates seller-level delivery performance, highlighting sellers with higher la
 
 Explores customer review scores and compares satisfaction across on-time and late delivery classifications.
 
-\<p align="center">   \<img src="https://github.com/Sourav-Git01/Ecommerce_delivery_intelligence/blob/6fc56c9efadb3b869f5388ac36686c46763811eb/Pictures/Customer%20Experience.png" width="850" alt="Customer Experience Dashboard"> \</p>
+\<p align="center">   \<img src="Pictures/Customer Experience.png" width="850" alt="Customer Experience Dashboard"> \</p>
 
 ---
 
