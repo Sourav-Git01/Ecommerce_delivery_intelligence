@@ -156,6 +156,16 @@ Explores customer review scores and compares satisfaction across on-time and lat
 <p align="center">
   <img src="Pictures/Customer%20Experience.png" width="850" alt="Customer Experience Dashboard">
 </p>
+
+
+
+### 📥 Access the Power BI Report
+
+The complete interactive Power BI report is available in the repository:
+
+📁 `Power BI/ecommerce_delivery_project.pbix`
+
+Download the `.pbix` file and open it using **Microsoft Power BI Desktop** to explore all four interactive dashboard pages, apply filters, and investigate the underlying insights.
 ---
 
 ## 💡 Key Business Takeaways
