@@ -154,9 +154,8 @@ Evaluates seller-level delivery performance, highlighting sellers with higher la
 Explores customer review scores and compares satisfaction across on-time and late delivery classifications.
 
 <p align="center">
-  <img src="Pictures/Customer%20Experience.png" width="850">
+  <img src="Pictures/Customer%20Experience.png" width="850" alt="Customer Experience Dashboard">
 </p>
-
 ---
 
 ## 💡 Key Business Takeaways
